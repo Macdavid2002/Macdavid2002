@@ -1,4 +1,4 @@
-### Hi 👋, my name Temiloluwa David 
+### Hi 👋, I'm Temiloluwa David 
 ### Front-end Developer
 - 🌍 I'm based in Lagos,Nigeria
 - 💬 Contact me @ david.tomi2020@gmail.com
