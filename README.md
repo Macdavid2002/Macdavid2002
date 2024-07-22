@@ -8,7 +8,6 @@ Frontend Software Developer
 - 💬 Contact me @ david.tomi2020@gmail.com
 - 🤝 I'm open to assocating on open source projects
 - 👨🏻‍🤝‍👨🏻 Im looking to collaborate with other content creators
-- 🧠 I’m currently learning TypeScript, Django & Kotlin
 
 ### Connect with me :
 
