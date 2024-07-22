@@ -17,7 +17,6 @@ Frontend Software Developer
 <a href="https://twitter.com/david51372918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
  </p>
-![Macdavid2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid2002&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### Languages and Tools:
 
 <p align="left">
