@@ -40,3 +40,7 @@ Frontend Software Developer
 </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+
+# <img src="https://github-readme-stats.vercel.app/api?username=Macdavid2002&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Macdavid2002's GitHub Stats" />
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Macdavid2002&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+# ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Macdavid2002&theme=tokyonight&hide_border=true)
